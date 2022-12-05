@@ -1,0 +1,53 @@
+.tasks-fields {
+    margin: 0 auto;
+    height: 500px;
+    width: 320px;
+	padding-left: 25px;
+	padding-top: 17px;
+    background-image: linear-gradient(90deg,transparent 708px,transparent 712px),linear-gradient(#e9e9e9 1px,transparent 0px),linear-gradient(90deg,#e9e9e9 1px,transparent 0px);
+    background-size: 100% 100%, 20px 20px, 20px 20px;
+    background-position: 0 0,-1px -1px,-1px 1px;
+    font-family: monospace;
+    font-size: 19px;
+    line-height: 24px;
+	font-style: italic;
+	border: solid 1px #8a8a8a;
+}
+.task {
+    border: solid 1px #8a8a8a;
+    border-radius: 15px;
+    margin-right: 25px;
+    margin-bottom: 5px;
+    background-color: #e9e9e9;
+    height: 40px;
+}
+.input-div {
+    border: solid 1px #8a8a8a;
+    border-radius: 5px;
+    margin-right: 25px;
+    margin-bottom: 5px;
+    background-color: #e9e9e9;
+    height: 40px;
+
+}
+.input-task {
+        font-family: monospace;
+        font-size: 19px;
+        line-height: 24px;
+        font-style: italic;
+        background-color: #e9e9e9;
+        border: none;
+        width: 75%;
+        height: 100%;
+        border-radius: 5px;
+        padding: 0;
+}
+.input-button {
+    font-family: monospace;
+    font-size: 19px;
+    line-height: 24px;
+    font-style: italic;
+    border: none;
+    background-color: #e9e9e9;
+    width: 20%;
+}
